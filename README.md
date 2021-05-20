@@ -1,2 +1,2 @@
-# Causal_DeepLearning
- Investigating approaches to prevent confounding in deep networks
+# Causal Robustness of Deep Learning Models
+ Investigating approaches to test deep learning models for spurious correlations (confounding + selection bias)
